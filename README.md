@@ -34,12 +34,19 @@ cd prefix-postfix-debugger
 ### 📋 Expected Output:
 
 Counter is currently 10
+
 Counter is now 11
+
 Score is currently 8
+
 Score is still 8
+
 Coins is currently 3
+
 Coins is now 2
+
 Health is currently 7
+
 Health is still 7
 
 
