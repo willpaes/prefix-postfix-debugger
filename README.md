@@ -28,7 +28,7 @@ node pre-pos-debugger.js
 ### Navigate to the project directory:
 
 bash
-cd increment-decrement-debugger
+cd prefix-postfix-debugger
 
 ### 📋 Expected Output:
 
